@@ -1,0 +1,36 @@
+element.style {
+    height: auto;
+    overflow: auto;
+    --closeImage: url(https\:\/\/cdn\.yellowmessenger\.com\/files\/images\/close\.png);
+}
+constructed stylesheet
+body {
+    margin: 0px;
+    background-color: rgb(242, 242, 242);
+    font-family: proxima-nova, sans-serif;
+}
+constructed stylesheet
+* {
+}
+constructed stylesheet
+* {
+}
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
+}
+<style>
+:root {
+    --closeImage: '';
+}
+@media screen and (max-width: 1024px)
+constructed stylesheet
+html {
+    font-size: 0.5rem;
+}
+constructed stylesheet
+html {
+    overflow: hidden scroll;
+    font-size: 1rem;
+}
